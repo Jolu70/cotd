@@ -44,7 +44,7 @@
 })( jQuery );
 
 (function( $, undefined ) {
-	//special click handling to make widget work remove after nav changes in 1.4
+	//special clicks handling to make widget work remove after nav changes in 1.4
 	var href,
 		ele = "";
 	$( document ).on( "click", "a", function( e ) {
