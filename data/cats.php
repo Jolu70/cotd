@@ -2,6 +2,7 @@
 
 // Change item rankings and related attribute data here
 // If adding new entries than also add associated image
+// If adding new entries than also add associated image
 
 $_SESSION['item'] = array();
 
